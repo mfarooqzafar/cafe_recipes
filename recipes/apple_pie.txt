@@ -1,6 +1,11 @@
 Applie Pie
+<<<<<<< HEAD
+=======
+
+>>>>>>> lisa
 pre-made pastry
 .5 cup butter
 3 tablespoons flour
 1 cup sugar
-8 Granny Smith applies
+1 tbsp cinnamon
+9 Granny Smith apples
