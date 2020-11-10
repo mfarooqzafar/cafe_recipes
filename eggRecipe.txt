@@ -1,5 +1,7 @@
 This is my first recipe of boiling egg.
 List of step: 
-1. Get one eggs
-2. pan of water
-3. switch on gas
+
+1. Get three eggs
+2. Put all eggs in boiling water
+3. boil eggs for six minutes
+
